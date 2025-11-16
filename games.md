@@ -67,3 +67,11 @@ title: Games
         height="175">
   <a href="https://rickylee.itch.io/goblin-quest">Goblin Quest by rickylee</a>
 </iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1728313?border_width=5&amp;bg_color=000000&amp;fg_color=ffffff&amp;link_color=ffffff&amp;border_color=ffffff" width="560" height="175"><a href="https://rickylee.itch.io/lighthouse">Lighthouse by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/2958086?border_width=5&amp;bg_color=FFFAA0&amp;fg_color=6cb6e7&amp;border_color=fa5c5c" width="560" height="175"><a href="https://rickylee.itch.io/fling-shui">Fling Shui by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1710912?border_width=5&amp;bg_color=000000&amp;fg_color=ffff00&amp;link_color=ff5207&amp;border_color=ff2e2e" width="560" height="175"><a href="https://rickylee.itch.io/big-sleep">Big Sleep by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/2043031?border_width=5&amp;bg_color=005467&amp;fg_color=ffffff&amp;link_color=ffe325&amp;border_color=1ac2e9" width="560" height="175"><a href="https://rickylee.itch.io/treats-inbound">Treats Inbound by rickylee</a></iframe>
