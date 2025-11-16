@@ -87,6 +87,8 @@ Developed by Sumo Digital Academy and published by Secret Mode.
 <hr style="height:0; border:none; margin:0; padding:0;">
 <br>
 
+<div style="clear: both;"></div>
+
 <br>
 - [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/)
 - [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775)
