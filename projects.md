@@ -53,7 +53,7 @@ Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes t
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="border:4px solid cyan; margin:30px 0;">
 
-![Oil Strike 75](https://static.wikia.nocookie.net/still-wakes-the-deep/images/3/36/OilStrike75_.jpg/revision/latest?cb=20250205222017){: .img-left }
+![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left }
 
 Featured work / programming projects
 ![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-left }
