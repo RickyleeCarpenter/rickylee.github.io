@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Hi, I'm Ricky!
 
 Welcome to my site.  
