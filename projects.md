@@ -4,6 +4,8 @@ title: Projects
 ---
 
 # Projects
+
+<hr style="height:0; border:none; margin:0; padding:0;">
 ![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
 <hr style="height:0; border:none; margin:0; padding:0;">
 <div style="text-align: center;">
@@ -96,9 +98,10 @@ Role:
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
-<hr style="border:4px solid cyan; margin:30px 0;">
+<hr style="border:2px solid lime; margin:30px 0;">
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
 <hr style="height:0; border:none; margin:0; padding:0;">
 ![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-center }
 <hr style="height:0; border:none; margin:0; padding:0;">
