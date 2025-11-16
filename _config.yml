@@ -1,1 +1,22 @@
-jekyll-theme-midnight
+title: rickylee
+description: Game dev & indie projects
+url: "https://rickyleecarpenter.github.io"
+
+theme: jekyll-theme-minimal
+
+author:
+  name: Ricky-lee Carpenter
+  email: ricky@example.com
+  github: RickyleeCarpenter
+  twitter: yourhandle
+
+nav:
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Contact
+    url: /contact
+
+markdown: kramdown
+highlighter: rouge
