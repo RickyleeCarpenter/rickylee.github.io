@@ -5,9 +5,10 @@ title: Contact Me
 
 # Contact Me
 
-Fill out the form below to send me an email:
-
 ![Contact Me](https://media.giphy.com/media/O56JjOpDoljTG/giphy.gif){: .img-center }
+<div style="text-align: center;">
+  Dial me up
+</div>
 
 <form id="contact-form" action="https://formspree.io/f/myzlnqqn" method="POST">
   <label for="name">Name:</label><br>
