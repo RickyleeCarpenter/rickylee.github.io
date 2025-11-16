@@ -12,9 +12,15 @@ Published games im credited on
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 
 <div class="clearfix">
-  <iframe class="video-left-inline" width="100%" height="315" src="https://www.youtube.com/watch?v=T3MTJm5h23E" frameborder="0" allowfullscreen></iframe>
+  <iframe class="video-left-inline" width="48%" height="315" 
+          src="https://www.youtube.com/embed/T3MTJm5h23E" 
+          frameborder="0" allowfullscreen>
+  </iframe>
 
-  <iframe class="video-left-inline" width="100%" height="315" src="https://www.youtube.com/watch?v=oWrVxXGlg6w" frameborder="0" allowfullscreen></iframe>
+  <iframe class="video-left-inline" width="48%" height="315" 
+          src="https://www.youtube.com/embed/oWrVxXGlg6w" 
+          frameborder="0" allowfullscreen>
+  </iframe>
 </div>
 
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/)
