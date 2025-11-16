@@ -42,7 +42,7 @@ ul {
 
 .img-left {
   display: block;
-  margin: 10px auto;
+  margin: 10px 0;
   max-width: 50%;
 }
 
