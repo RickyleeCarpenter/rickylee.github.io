@@ -4,11 +4,9 @@ title: Projects
 ---
 
 # Projects
+![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
 <hr style="height:0; border:none; margin:0; padding:0;">
 Published games im credited on
-<hr style="height:0; border:none; margin:0; padding:0;">
-![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-left }
-<hr style="height:0; border:none; margin:0; padding:0;">
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -68,11 +66,9 @@ Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes t
 <hr style="border:4px solid cyan; margin:30px 0;">
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
+![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-center }
+<hr style="height:0; border:none; margin:0; padding:0;">
 Featured work / programming projects
-<hr style="height:0; border:none; margin:0; padding:0;">
-![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-left }
-<hr style="height:0; border:none; margin:0; padding:0;">
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">idk what to put here lol</span>
