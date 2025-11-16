@@ -46,3 +46,36 @@ ul {
   float: left;
   max-width: 50%;
 }
+
+form {
+  border: 3px dotted lime;
+  padding: 10px;
+  max-width: 400px;
+  margin: 20px auto;
+  font-family: 'Courier New', monospace;
+  color: lime;
+  background-color: black;
+}
+
+input, textarea {
+  width: 100%;
+  margin: 5px 0;
+  background-color: black;
+  color: lime;
+  border: 2px solid lime;
+  padding: 5px;
+}
+
+button {
+  background-color: lime;
+  color: black;
+  border: 2px solid lime;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: black;
+  color: lime;
+}
