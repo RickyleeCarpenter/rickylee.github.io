@@ -75,3 +75,17 @@ title: Games
 <iframe frameborder="0" src="https://itch.io/embed/1710912?border_width=5&amp;bg_color=000000&amp;fg_color=ffff00&amp;link_color=ff5207&amp;border_color=ff2e2e" width="560" height="175"><a href="https://rickylee.itch.io/big-sleep">Big Sleep by rickylee</a></iframe>
 
 <iframe frameborder="0" src="https://itch.io/embed/2043031?border_width=5&amp;bg_color=005467&amp;fg_color=ffffff&amp;link_color=ffe325&amp;border_color=1ac2e9" width="560" height="175"><a href="https://rickylee.itch.io/treats-inbound">Treats Inbound by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/2294881?border_width=5&amp;bg_color=252525&amp;fg_color=ffffff&amp;link_color=60CDF5&amp;border_color=60CDF5" width="560" height="175"><a href="https://rickylee.itch.io/wizard-n-slims">Wizard n' Slims by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/2159345?border_width=5&amp;bg_color=000000&amp;fg_color=ba4eff&amp;link_color=1dc300&amp;border_color=313178" width="560" height="175"><a href="https://rickylee.itch.io/frog-gore">frog gore by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/2635660?border_width=5&amp;bg_color=14000e&amp;fg_color=ffffff&amp;link_color=fce900&amp;border_color=fce900" width="560" height="175"><a href="https://rickylee.itch.io/honse">Honse by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1868103?border_width=5&amp;bg_color=000000&amp;fg_color=ffffff&amp;link_color=ffffff&amp;border_color=ffffff" width="560" height="175"><a href="https://rickylee.itch.io/reap-and-sow">Reap and Sow by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1524367?border_width=5&amp;bg_color=155990&amp;fg_color=ffffff&amp;link_color=ffe11b&amp;border_color=ffe11b" width="560" height="175"><a href="https://rickylee.itch.io/ccko2022">CCKO2022 by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/3870097?border_width=5&amp;bg_color=94ebc4&amp;fg_color=ff6458&amp;link_color=fa5c5c&amp;border_color=00a2a5" width="560" height="175"><a href="https://rickylee.itch.io/cool-bug">Cool Bug by rickylee</a></iframe>
+
+<iframe frameborder="0" src="https://itch.io/embed/1457789?border_width=5&amp;bg_color=0c0c0c&amp;fg_color=d6fcfe&amp;link_color=fffb1b&amp;border_color=fffb1b" width="560" height="175"><a href="https://rickylee.itch.io/particle-accelerator">Particle Accelerator by rickylee</a></iframe>
