@@ -7,7 +7,7 @@ title: Contact Me
 
 Fill out the form below to send me a message:
 
-<form action="https://formspree.io/f/myzlnqqn" method="POST">
+<form action="https://formspree.io/f/myzlnqqn" method="POST" onsubmit="this.action+='?redirect=/thank-you';">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
