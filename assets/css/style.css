@@ -81,8 +81,17 @@ button:hover {
   color: lime;
 }
 
-.video-left {
+.video-leftblock {
   display: block;
   margin: 20px 0;
   text-align: left;
+}
+
+.video-left-inline {
+  float: left;
+  margin: 0 20px 20px 0;
+}
+.video-right-inline {
+  float: right;
+  margin: 0 0 20px 20px;
 }
