@@ -11,13 +11,10 @@ Published games im credited on
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 
-<div style="text-align:center; margin:20px 0;">
-  <iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/T3MTJm5h23E" 
-          title="NUTMEG demo" 
-          frameborder="0" 
-          allowfullscreen>
-  </iframe>
+<div class="clearfix">
+  <iframe class="video-left-inline" width="100%" height="315" src="https://www.youtube.com/watch?v=T3MTJm5h23E" frameborder="0" allowfullscreen></iframe>
+
+  <iframe class="video-left-inline" width="100%" height="315" src="https://www.youtube.com/watch?v=oWrVxXGlg6w" frameborder="0" allowfullscreen></iframe>
 </div>
 
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/)
@@ -29,13 +26,8 @@ Here’s a brief on my role: *[describe your contribution]*
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party</span>
 
-<div style="text-align:center; margin:20px 0;">
-  <iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/EqPuux4oIP8" 
-          title="Snake Party gameplay" 
-          frameborder="0" 
-          allowfullscreen>
-  </iframe>
+<div class="video-leftblock">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 - [Article & Info](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
