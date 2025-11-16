@@ -5,9 +5,10 @@ title: Projects
 
 # Projects
 
-Published games im credited on
+<hr style="border:4px solid cyan; margin:30px 0;">
 
-![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
+Published games im credited on
+![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-left }
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 
@@ -67,10 +68,9 @@ Brief: *[your role/description]*
 
 Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes the Deep*.
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
+<hr style="border:4px solid cyan; margin:30px 0;">
 
 Featured work / programming projects
-
 ![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-center }
 
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">idk what to put here lol</span>
