@@ -11,6 +11,7 @@ Published games im credited on
 <br>
 <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
+
 ## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
 
 <div class="clearfix">
@@ -67,8 +68,6 @@ Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes t
 <hr style="border:4px solid cyan; margin:30px 0;">
 <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
-
-Brief: QA for Oil Strike 75, secret ARG mode published to promote *Still Wakes the Deep*.
 
 Featured work / programming projects
 <br>
