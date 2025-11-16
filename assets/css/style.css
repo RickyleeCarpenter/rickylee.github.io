@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  color: lime;
+  font-family: 'Courier New', monospace;
+  margin: 0;
+  padding: 0 20px;
+}
+
+h1 {
+  color: cyan;
+  text-shadow: 2px 2px 0 #ff00ff;
+}
+
+nav a {
+  color: yellow;
+  text-decoration: none;
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: hotpink;
+}
+
+footer {
+  margin-top: 50px;
+  border-top: 2px solid lime;
+  padding-top: 10px;
+}
+
+ul {
+  list-style-type: square;
+}
