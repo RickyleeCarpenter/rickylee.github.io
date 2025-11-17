@@ -24,7 +24,7 @@ NUTMEG is a 3D retro 80s football manager, that uses a card game with deck build
 Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
 
-- [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/)
+- [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
 <br>
 <div class="clearfix">
@@ -59,7 +59,7 @@ A 3d multiplayer split screen take on classic snake, using the Snake Pass IP.
 Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half time.
 <br>
 
-- [Article](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/)
+- [Article](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/){: .link }
 
 <br>
 <div class="video-leftblock">
@@ -81,13 +81,13 @@ Role:
 <br>
 **- Built in a custom in house engine**
 <br>
-A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/).
+A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/){: .link }.
 <br>
 Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
 
-- [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/)
-- [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775)
+- [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/){: .link }
+- [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775){: .link }
 
 <br>
 ![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left }
