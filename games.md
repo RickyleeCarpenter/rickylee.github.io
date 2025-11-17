@@ -9,7 +9,7 @@ title: Games
 
 <div style="text-align: center;">
         These are small games ive made either alone or with friends, mostly for game jams.
-        Check out my [itch page](https://rickylee.itch.io/) it will be more up to date.
+        Check out my <span class="link">[itch page](https://rickylee.itch.io/){: .link }</span> it will be more up to date.
 </div>
 <br>
 <!-- Mega Water Rally 32 -->
