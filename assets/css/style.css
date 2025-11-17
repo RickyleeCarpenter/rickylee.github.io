@@ -114,3 +114,11 @@ button:hover {
   text-decoration: underline;
   font-weight: bold;
 }
+
+.subtitle-yellow {
+  color: yellow;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
