@@ -15,7 +15,10 @@ title: Projects
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG (2024-2026)</span>
+<br>
+**- Built in a custom in house engine**
+<br>
 NUTMEG is a 3D retro 80s football manager, that uses a card game with deck building to represent football matches.
 <br>
 Developed by Sumo Digital Academy and published by Secret Mode.
@@ -47,8 +50,11 @@ Role:
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party</span>
-Snake party is a 3d multiplayer split screen take on classic snake, using the Snake Pass IP. 
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party (2024)</span>
+<br>
+**- Built in a custom in house engine**
+<br>
+A 3d multiplayer split screen take on classic snake, using the Snake Pass IP. 
 <br>
 Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half time.
 <br>
@@ -71,8 +77,11 @@ Role:
 <hr style="height:0; border:none; margin:0; padding:0;">
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
-## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike ‘75</span>
-Oil strike is a 2d retro ARG horror made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/).
+## <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
+<br>
+**- Built in a custom in house engine**
+<br>
+A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/).
 <br>
 Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
