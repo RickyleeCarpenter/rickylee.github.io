@@ -73,9 +73,9 @@ Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half tim
 </div>
 Job Title: **Apprentice Programmer**
 <br>
-We initially intended this to be a party game with multiple game modes - on release we only included the one game mode shown in the video, with the intention of updating with more later.
+We intended this to be a party game with multiple game modes – on release we only included the one game mode shown in the video, with the intention of updating with more later.
 <br>
-I had the main responsibility to prototype and develop an additional game mode for the team to polish after release - Unfortunately not long after release the project was dropped for another and most of my work was never released xD
+I had many tasks on Snake Party as a generalist, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately not long after release the project was dropped for another, and it's highly likely that the game will never see the light of day. xD
 <br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
