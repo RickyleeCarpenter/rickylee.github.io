@@ -25,14 +25,15 @@ title: Projects
 
 <table>
   <tr>
-    <td>
+    <td style="padding-left:10px; padding-right:10px;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/T3MTJm5h23E" frameborder="0" allowfullscreen></iframe>
     </td>
-    <td>
+    <td style="padding-left:10px; padding-right:10px;">
       <iframe width="320" height="180" src="https://www.youtube.com/embed/oWrVxXGlg6w" frameborder="0" allowfullscreen></iframe>
     </td>
   </tr>
 </table>
+
 <div style="clear:both;"></div>
 
 ## Junior Programmer
@@ -57,9 +58,14 @@ title: Projects
 
 - [Article](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/){: .link }
 
-<br>
 <div class="video-leftblock">
-  <iframe src="https://www.youtube.com/embed/EqPuux4oIP8" width="320" height="180" frameborder="0" allowfullscreen></iframe>
+  <table style="width:680px; margin:0 auto;">
+    <tr>
+      <td style="text-align:center;">
+        <iframe width="320" height="180" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
+      </td>
+    </tr>
+  </table>
 </div>
 ## Apprentice Programmer
 <div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
