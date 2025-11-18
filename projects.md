@@ -59,10 +59,10 @@ title: Projects
 - [Article](https://www.sumo-digital.com/sumo-digital-academy-create-a-halftime-hit-for-sheffield-wednesday-football-club/){: .link }
 
 <div class="video-leftblock">
-  <table style="width:680px; margin:0 auto;">
+  <table style="width:680px; margin:0 0 20px 0;">
     <tr>
       <td style="text-align:center;">
-        <iframe width="320" height="180" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
+        <iframe width="320" height="180" src="https://www.youtube.com/embed/EqPuuxXGlg6w" frameborder="0" allowfullscreen></iframe>
       </td>
     </tr>
   </table>
