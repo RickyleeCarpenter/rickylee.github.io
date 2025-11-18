@@ -6,7 +6,7 @@ title: Projects
 # Projects
 
 <hr style="height:0; border:none; margin:0; padding:0;">
-![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center }
+![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center style="width:300px;" }
 <hr style="height:0; border:none; margin:0; padding:0;">
 <div style="text-align: center;">
   Brief look at published games I'm credited on professionally.
@@ -24,11 +24,11 @@ title: Projects
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
 <div style="float:left; margin:0 20px 20px 0; width:200px; height:112px;">
-  <iframe src="https://www.youtube.com/embed/T3MTJm5h23E" width="200" height="112" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/T3MTJm5h23E" width="300" height="168" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div style="float:left; margin:0 20px 20px 0; width:200px; height:112px;">
-  <iframe src="https://www.youtube.com/embed/oWrVxXGlg6w" width="200" height="112" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/oWrVxXGlg6w" width="300" height="168" frameborder="0" allowfullscreen></iframe>
 </div>
 <div style="clear:both;"></div>
 
@@ -56,7 +56,7 @@ title: Projects
 
 <br>
 <div class="video-leftblock">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/EqPuux4oIP8" width="300" height="168" frameborder="0" allowfullscreen></iframe>
 </div>
 ## Apprentice Programmer
 <div class="text-box">We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.</div>
@@ -95,7 +95,7 @@ title: Projects
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 <hr style="height:0; border:none; margin:0; padding:0;">
-![Retro Data GIF](https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif){: .img-center }
+![Rainbow](https://media.giphy.com/media/j663Bww6Uchnkp7GIp/giphy.gif){: .img-center style="width:300px;" }
 <hr style="height:0; border:none; margin:0; padding:0;">
 <div style="text-align: center;">
   Brief look at some featured work / programming projects.
