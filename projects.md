@@ -26,17 +26,15 @@ title: Projects
 
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
-<div class="clearfix">
-  <iframe class="video-left-inline" width="48%" height="315" 
-          src="https://www.youtube.com/embed/T3MTJm5h23E" 
-          frameborder="0" allowfullscreen>
-  </iframe>
-
-  <iframe class="video-left-inline" width="48%" height="315" 
-          src="https://www.youtube.com/embed/oWrVxXGlg6w" 
-          frameborder="0" allowfullscreen>
-  </iframe>
+<div class="video-wrapper" style="float:left; margin:0 20px 20px 0; width:20%;">
+  <iframe src="https://www.youtube.com/embed/T3MTJm5h23E" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<div class="video-wrapper" style="float:left; margin:0 20px 20px 0; width:20%;">
+  <iframe src="https://www.youtube.com/embed/oWrVxXGlg6w" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div style="clear:both;"></div>
 ## Junior Programmer
 <div class="text-box">I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.</div>
 <br><br>
