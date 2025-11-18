@@ -38,6 +38,7 @@ ul {
   border: 3px dotted lime;
   padding: 4px;
   max-width: 90%;
+  width: auto;
 }
 
 .img-left {
