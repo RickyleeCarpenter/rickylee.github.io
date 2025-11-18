@@ -1,3 +1,16 @@
+header, footer {
+  position: fixed;
+  top: 0;      /* for header */
+  bottom: 0;   /* for footer */
+  left: 0;
+  right: 0;
+  background-color: black;
+  z-index: 998;
+  padding: 10px 20px;
+  border-bottom: 2px solid lime; /* header */
+  border-top: 2px solid lime;    /* footer */
+}
+
 body {
   background-color: black;
   color: lime;
@@ -5,6 +18,10 @@ body {
   margin: 0;
   padding: 0 10%;
   box-sizing: border-box;
+}
+
+main {
+  margin-top: 60px;
 }
 
 .fixed-left-margin {
@@ -16,21 +33,6 @@ body {
   background-color: black;
   z-index: 999;
   padding: 20px;
-}
-
-header {
-  position: fixed;
-  top: 0;
-  left: 10%;
-  right: 0;
-  background-color: black;
-  z-index: 998;
-  padding: 10px 20px;
-  border-bottom: 2px solid lime;
-}
-
-main {
-  margin-top: 60px;
 }
 
 .page-wrapper {
@@ -52,17 +54,6 @@ nav a {
 
 nav a:hover {
   color: hotpink;
-}
-
-footer {
-  position: fixed;
-  bottom: 0;
-  left: 10%;
-  right: 0;
-  background-color: black;
-  padding: 10px 20px;
-  border-top: 2px solid lime;
-  z-index: 998;
 }
 
 ul {
