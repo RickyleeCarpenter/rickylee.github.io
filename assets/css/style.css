@@ -1,14 +1,14 @@
 header, footer {
   position: fixed;
-  top: 0;      /* for header */
-  bottom: 0;   /* for footer */
+  top: 0;
+  bottom: 0;
   left: 0;
   right: 0;
   background-color: black;
   z-index: 998;
   padding: 10px 20px;
-  border-bottom: 2px solid lime; /* header */
-  border-top: 2px solid lime;    /* footer */
+  border-bottom: 2px solid lime;
+  border-top: 2px solid lime;
 }
 
 body {
