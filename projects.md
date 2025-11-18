@@ -24,7 +24,7 @@ A 3D retro 80s football manager, that uses a card game with deck building to rep
 Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
 
-[Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
+- [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
 <div class="clearfix">
   <iframe class="video-left-inline" width="48%" height="315" 
@@ -37,8 +37,7 @@ Developed by Sumo Digital Academy and published by Secret Mode.
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
-## **Junior Programmer**
-<br>
+## Junior Programmer
 I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.
 <br><br>
 After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.
@@ -71,8 +70,7 @@ Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half tim
 <div class="video-leftblock">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
 </div>
-## **Apprentice Programmer**
-<br>
+## Apprentice Programmer
 We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.
 <br>
 I had many tasks on Snake Party as a generalist, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately, not long after release the project was dropped for something else, and it's highly likely that the game mode I worked on will never see the light of day. xD
@@ -102,7 +100,7 @@ Developed by Sumo Digital Academy and published by Secret Mode.
 
 <div style="clear: both;"></div>
 
-## **Apprentice Programmer / QA**
+## Apprentice Programmer / QA
 My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.
 <br><br>
 We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.
