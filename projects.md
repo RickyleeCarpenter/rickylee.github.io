@@ -87,9 +87,13 @@ title: Projects
 - [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/){: .link }
 - [Fandom Wiki](https://still-wakes-the-deep.fandom.com/wiki/Oil_Strike_%2775){: .link }
 
-<br>
-![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left width="600"}
-<br>
+<table style="width:680px; margin:0 0 20px 0;">
+  <tr>
+    <td style="text-align:center;">
+      ![Oil Strike 75](https://www.sumo-digital.com/wp-content/uploads/2024/08/Sumo-Digital-games-Oil-Strike-75-featured-image.jpg){: .img-left width="600"}
+    </td>
+  </tr>
+</table>
 
 <div style="clear: both;"></div>
 
