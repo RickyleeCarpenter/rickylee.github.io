@@ -1,15 +1,25 @@
-header, footer {
+header {
   position: fixed;
   top: 0;
+  left: 0;
+  right: 0;
+  background-color: black;
+  z-index: 998;
+  padding: 10px 10%; /* matches body padding for alignment */
+  border-bottom: 2px solid lime;
+}
+
+footer {
+  position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
   background-color: black;
   z-index: 998;
-  padding: 10px 20px;
-  border-bottom: 2px solid lime;
+  padding: 10px 10%; /* matches body padding */
   border-top: 2px solid lime;
 }
+
 
 body {
   background-color: black;
