@@ -16,17 +16,16 @@ title: Projects
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">NUTMEG</span>
-<span class="subtitle-yellow">>2024–2026</span>
-<span class="subtitle-yellow">>Built in c++ with a custom in-house engine</span>
+<span class="subtitle-yellow">2024–2026</span>
+<span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
 <br>
 NUTMEG is a 3D retro 80s football manager, that uses a card game with deck building to represent football matches.
 <br>
 Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
 
-- [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
+[Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
-<br>
 <div class="clearfix">
   <iframe class="video-left-inline" width="48%" height="315" 
           src="https://www.youtube.com/embed/T3MTJm5h23E" 
@@ -38,16 +37,16 @@ Developed by Sumo Digital Academy and published by Secret Mode.
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
-Job Title: **Junior Programmer**
+## **Junior Programmer**
 <br>
-I was involved right from the start of NUTMEG, before it was even officially a project at Sumo. There were many processes to get the game internally greenlit, and one of those was to produce a prototype of which myself and a couple others were given the responsibility to do using an in-house custom framework.k.
+I was involved right from the start before NUTMEG was officially a project at Sumo. There were many internal processes to get NUTMEG greenlit. One of those was to produce a prototype of the card game - which myself and a two others were given the responsibility to develop using an in-house custom 2D framework.
+<br><br>
+After it officially kicked off I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, making engine tools to prevent insanity, helping shape new rendering features and writing the shaders for them.
+<br><br>
+My personal favorite work is the procedural animations I produced with instanced objects
 <br>
-After it officially kicked off, I ended up working across pretty much every layer of the project — adding new gameplay and flow, extending our data-driven systems, helping shape new rendering features and writing the shaders for them, making engine tools to prevent insanity. 
 <br>
-I think my flashiest work would be the procedural animations work with instanced objects
-<br>
-<br>
-*ADD ANIMATIONS GIF HERE" 
+*ADD ANIMATIONS GIF HERE"
 <br>
 <br>
 
@@ -73,9 +72,9 @@ Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half tim
 </div>
 Job Title: **Apprentice Programmer**
 <br>
-We intended this to be a party game with multiple game modes – on release we only included the one game mode shown in the video, with the intention of updating with more later.
+We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.
 <br>
-I had many tasks on Snake Party as a generalist, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately not long after release the project was dropped for another, and it's highly likely that the game will never see the light of day. xD
+I had many tasks on Snake Party as a generalist, but my main responsibility was to prototype and lead development of an additional 4-player game mode. Unfortunately, not long after release the project was dropped for something else, and it's highly likely that the game mode I worked on will never see the light of day. xD
 <br>
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
