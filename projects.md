@@ -19,7 +19,7 @@ title: Projects
 <span class="subtitle-yellow">2024–2026</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
 <br>
-NUTMEG is a 3D retro 80s football manager, that uses a card game with deck building to represent football matches.
+A 3D retro 80s football manager, that uses a card game with deck building to represent football matches.
 <br>
 Developed by Sumo Digital Academy and published by Secret Mode.
 <br>
@@ -57,9 +57,10 @@ My personal favorite work is the procedural animations I produced with instanced
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Snake Party</span>
-<span class="subtitle-yellow">>2024</span>
-<span class="subtitle-yellow">>Built in c++ with a custom in-house engine</span>
-A 3d multiplayer split screen take on classic snake, using the Snake Pass IP. 
+<span class="subtitle-yellow">2024</span>
+<span class="subtitle-yellow">Built in c++ with a custom in-house 3D Engine</span>
+<br>
+A 3d multiplayer split screen take on the classic snake, using the Snake Pass IP. 
 <br>
 Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half time.
 <br>
@@ -70,7 +71,7 @@ Developed by Sumo Digital Academy for Sheffield Wednesday FC to play at half tim
 <div class="video-leftblock">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EqPuux4oIP8" frameborder="0" allowfullscreen></iframe>
 </div>
-Job Title: **Apprentice Programmer**
+## **Apprentice Programmer**
 <br>
 We intended this to be a party game with multiple game modes – when released we only included the one game mode shown in the video, with the intention of adding more games in later updates.
 <br>
@@ -84,8 +85,8 @@ I had many tasks on Snake Party as a generalist, but my main responsibility was 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
-<span class="subtitle-yellow">>2024</span>
-<span class="subtitle-yellow">>Built in c++ with a custom in-house engine</span>
+<span class="subtitle-yellow">2024</span>
+<span class="subtitle-yellow">Built in c++ with a custom in-house engine</span>
 <br>
 A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/){: .link }.
 <br>
@@ -101,9 +102,12 @@ Developed by Sumo Digital Academy and published by Secret Mode.
 
 <div style="clear: both;"></div>
 
-Role:
-<br>
-*explain role*
+## **Apprentice Programmer / QA**
+My first AAA credit was on Still Wakes The Deep for being QA on Oil Strike '75. Id just started as an apprentice and this was our first real look at how things ran in a large scale studio.
+<br><br>
+We learned how to test features properly, write clear bug reports, and understand debugging workflows from the QA side — plus all the practical stuff like Perforce, project management tools, continuous integration, Agile, and Scrum that make up the production pipeline.
+<br><br>
+I specifically tested Matt's helicopter level, so if you play it you know that at least that part of the game won't have any glitches ;)
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------- -->
 <hr style="height:0; border:none; margin:0; padding:0;">
