@@ -23,12 +23,12 @@ title: Projects
 
 - [Steam Store Page](https://store.steampowered.com/app/3590560/NUTMEG_A_Nostalgic_Deckbuilding_Football_Manager/){: .link }
 
-<div class="video-wrapper" style="float:left; margin:0 20px 20px 0; width:20%;">
-  <iframe src="https://www.youtube.com/embed/T3MTJm5h23E" frameborder="0" allowfullscreen></iframe>
+<div style="float:left; margin:0 20px 20px 0; width:200px; height:112px;">
+  <iframe src="https://www.youtube.com/embed/T3MTJm5h23E" width="200" height="112" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="video-wrapper" style="float:left; margin:0 20px 20px 0; width:20%;">
-  <iframe src="https://www.youtube.com/embed/oWrVxXGlg6w" frameborder="0" allowfullscreen></iframe>
+<div style="float:left; margin:0 20px 20px 0; width:200px; height:112px;">
+  <iframe src="https://www.youtube.com/embed/oWrVxXGlg6w" width="200" height="112" frameborder="0" allowfullscreen></iframe>
 </div>
 <div style="clear:both;"></div>
 
