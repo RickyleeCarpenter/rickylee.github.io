@@ -81,7 +81,10 @@ title: Projects
 # <span style="color: cyan; text-shadow: 2px 2px 0 magenta;">Oil Strike 75</span>
 <span class="subtitle-yellow">2024</span>
 <span class="subtitle-yellow">Built in c++ with a custom in-house engine</span>
-<div class="text-box">A pseudo emulated, 2D ARG horror game made to promote [Still Wakes The Deep](https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/){: .link }.</div>
+<div class="text-box">
+  A pseudo emulated, 2D ARG horror game made to promote 
+  <a class="link" href="https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/" target="_blank">Still Wakes The Deep</a>.
+</div>
 <div class="text-box">Developed by Sumo Digital Academy and published by Secret Mode.</div>
 
 - [Steam Store Page](https://store.steampowered.com/app/2740090/Oil_Strike_75/){: .link }
