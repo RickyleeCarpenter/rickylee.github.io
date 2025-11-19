@@ -8,8 +8,8 @@ title: Games
 ![90s Retro Commercial](https://media.giphy.com/media/d2Z7NqwF3yImFNHW/giphy.gif){: .img-center }
 
 <div style="text-align: center;">
-        These are small games ive made either alone or with friends, mostly for game jams.
-        Check out my <span class="link">[itch page](https://rickylee.itch.io/){: .link }</span> it will be more up to date.
+    These are small games I've made either alone or with friends, mostly for game jams.
+    Check out my <a class="link" href="https://rickylee.itch.io/" target="_blank">itch page</a>, it will be more up to date.
 </div>
 <br>
 <!-- Mega Water Rally 32 -->
